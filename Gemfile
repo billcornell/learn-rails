@@ -15,6 +15,7 @@ gem 'spring'
 
 # learn-rails
 gem 'foundation-rails', '~> 5.5'
+# mailchimp gem
 gem 'gibbon'
 gem 'high_voltage'
 gem 'simple_form'
